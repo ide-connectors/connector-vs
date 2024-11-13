@@ -18,13 +18,6 @@ in plugins' projects.
 
 ## Documentation
 
-Documentation can be [found here](https://bitbucket.org/atlassian-docs/atlassian-docs.bitbucket.org).
-
-See also
-
-* [Repository for Connector for Eclipse](https://bitbucket.org/atlassian/connector-eclipse)
-* [Repository for Connector for IntelliJ IDEA](https://bitbucket.org/atlassian/connector-idea)
-
 ## Tests
 
 Unit tests are located in the 'Unit Test' module. Simply run them from your IDE.
@@ -37,5 +30,3 @@ Contributions to Connector for Visual Studio are welcome! Please see [CONTRIBUTI
 
 Copyright (c) 2008-2023 Atlassian US., Inc.
 Apache 2.0 licensed, see [LICENSE](LICENSE) file.
-
-[![With â¤ï¸ from Atlassian](https://raw.githubusercontent.com/atlassian-internal/oss-assets/master/banner-cheers.png)](https://www.atlassian.com)
